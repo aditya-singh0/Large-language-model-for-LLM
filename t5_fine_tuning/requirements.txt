@@ -1,0 +1,9 @@
+mkdir t5_fine_tuning
+cd t5_fine_tuning
+
+mkdir backend
+mkdir backend/api
+mkdir pipeline
+mkdir infrastructure
+mkdir docs
+mkdir tests
